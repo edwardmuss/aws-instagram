@@ -13,6 +13,8 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 2. The Image is Filtered and the filtered Image is returned
 3. See this in action by visiting this endpoint `/filteredimage?image_url=IMAGE_URL`
 4. Example on localhost `http://localhost:8082/filteredimage?image_url=https://cdn.britannica.com/55/2155-050-604F5A4A/lion.jpg`
+5. Example on Liveserve `http://udagram-env.eba-dhh2w3gr.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.britannica.com/55/2155-050-604F5A4A/lion.jpg` 
+6. Access the [Live Website](http://udagram-env.eba-dhh2w3gr.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.britannica.com/55/2155-050-604F5A4A/lion.jpg)
 
 ## Tasks
 
